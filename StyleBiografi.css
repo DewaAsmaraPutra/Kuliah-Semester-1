@@ -1,0 +1,28 @@
+body{
+    background: url(g.jpg);
+    background-size: cover;
+    padding-top: 15px;
+}
+.main-section{
+    border:1px solid #138496;
+    background-color: #F0FFF0;
+}
+.header-akun{
+    background-color: #20B2AA;
+    height:100px;
+}
+.detail-Pengguna{
+    margin:-50px 0px 30px 0px;
+}
+.detail-Pengguna h5{
+    margin:11px 0px 5px 0px;
+}
+.detail-akunmedsos{
+    padding:15px 0px;
+    background-color: #48D1CC;
+}
+.detail-akunmedsos a i{
+    color: #000080;
+    font-size:23px;
+    padding: 0px 5px;
+}
